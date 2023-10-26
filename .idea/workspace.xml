@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="45897cc5-5999-4932-a1f0-6e6721576df3" name="Changes" comment="">
+    <list default="true" id="45897cc5-5999-4932-a1f0-6e6721576df3" name="Changes" comment="Triangle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,25 @@
       <option name="presentableId" value="Default" />
       <updated>1698321091177</updated>
     </task>
+    <task id="LOCAL-00001" summary="Triangle">
+      <created>1698331151992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698331151992</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Triangle">
+      <created>1698331212217</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698331212217</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangle" />
   </component>
 </project>

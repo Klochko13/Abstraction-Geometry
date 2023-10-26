@@ -41,7 +41,7 @@ public class Triangle extends Geometric {
         setSide3();
 
 
-        for (int i = 1; i < getSide1(); i++) {
+        for (int i = 1; i <= getSide1(); i++) {
             for (int j = 0; j < i; j++) {
                 System.out.print("*\t");
             }
